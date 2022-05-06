@@ -6,10 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `npm start`
+### `Archive application in Github`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](https://codesandbox.io/s/github/CathyASamuel/Update_Watch_Shop) to view it in your browser.
+See the app in Github.\
+Open [https://codesandbox.io/s/github/CathyASamuel/Update_Watch_Shop](https://codesandbox.io/s/github/CathyASamuel/Update_Watch_Shop) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
