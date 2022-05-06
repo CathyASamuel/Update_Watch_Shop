@@ -24,4 +24,4 @@ Use [https://ozdh5z.csb.app/](https://ozdh5z.csb.app/) for more information.
 
 Builds the app in netlify.\
 The app is ready to deploy!
-See [deployment](https://csb-opxc4y.netlify.app/) for more information.
+See [deployment](https://csb-opxc4y.netlify.app/).
